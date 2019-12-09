@@ -1,6 +1,6 @@
 # Exam Average
 
-tHIRS programming exercise in Chapter 2 of textbook.
+Third programming exercise in Chapter 2 of textbook.
 
 Not assigned in class, but I'm keeping up my GitHub streak.
 
