@@ -37,7 +37,7 @@ namespace exam_average
             WriteLine("{0, 8}", examScore5);
             examTotal += examScore5;
             WriteLine("\n{0, 8}", "Average");
-            examAverage = examTotal / NUMBER_OF_SCORES;
+            examAverage = (double)examTotal / NUMBER_OF_SCORES;
             WriteLine("{0, 8:N2}", examAverage);
         }
     }
