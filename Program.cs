@@ -7,6 +7,7 @@
  * ######################################################
  */
 using System;
+using static System.Console;
 
 namespace exam_average
 {
@@ -14,7 +15,7 @@ namespace exam_average
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            WriteLine("Hello World!");
         }
     }
 }
