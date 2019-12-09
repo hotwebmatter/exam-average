@@ -17,9 +17,9 @@ namespace exam_average
         {
             int examScore1 = 100,
                 examScore2 = 98,
-                examScore3 = 92,
+                examScore3 = 93,
                 examScore4 = 87,
-                examScore5 = 74,
+                examScore5 = 73,
                 examTotal = 0;
             const int NUMBER_OF_SCORES = 5;
             double examAverage;
